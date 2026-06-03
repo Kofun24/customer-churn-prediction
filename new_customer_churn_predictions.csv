@@ -1,0 +1,7 @@
+Customer_Name,Churn_Probability,Predicted_Churn,Churn_Status
+Andrew Mccall,0.24103478020652794,0,Not Likely to Churn
+Michele Wright,0.9281435046965248,1,Likely to Churn
+Jeremy Chang,0.7777492936215695,1,Likely to Churn
+Megan Ferguson,0.8792634385186632,1,Likely to Churn
+Taylor Young,0.34625831945392554,0,Not Likely to Churn
+Jessica Drake,0.6526497352438876,1,Likely to Churn
